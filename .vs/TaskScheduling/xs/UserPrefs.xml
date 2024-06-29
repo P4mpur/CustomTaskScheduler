@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{32F1CCB4-7F11-4947-82B7-D0D67551D7FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskScheduling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskScheduling/Client.cs">
+    <Files>
+      <File FileName="TaskScheduling/WorkerMessage.cs" Line="13" Column="16" />
+      <File FileName="TaskScheduling/Program.cs" Line="1" Column="1" />
+      <File FileName="TaskScheduling/Worker.cs" Line="11" Column="4" />
+      <File FileName="TaskScheduling/Client.cs" Line="116" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskScheduling" expanded="True">
+            <Node name="TaskScheduling" expanded="True">
+              <Node name="Client.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
