@@ -1,0 +1,14 @@
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/bin/Debug/net8.0/PreemptiveTaskScheduler
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/bin/Debug/net8.0/PreemptiveTaskScheduler.deps.json
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/bin/Debug/net8.0/PreemptiveTaskScheduler.runtimeconfig.json
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/bin/Debug/net8.0/PreemptiveTaskScheduler.dll
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/bin/Debug/net8.0/PreemptiveTaskScheduler.pdb
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.AssemblyInfoInputs.cache
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.AssemblyInfo.cs
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.csproj.CoreCompileInputs.cache
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.dll
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/refint/PreemptiveTaskScheduler.dll
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.pdb
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/PreemptiveTaskScheduler.genruntimeconfig.cache
+/home/pampur/Documents/sys/seminarski/PreemptiveTaskScheduler/obj/Debug/net8.0/ref/PreemptiveTaskScheduler.dll
